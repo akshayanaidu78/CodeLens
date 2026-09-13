@@ -1,0 +1,105 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #f5f7fb;
+  color: #1f2937;
+}
+
+.app {
+  min-height: 100vh;
+}
+
+.header {
+  height: 90px;
+  padding: 20px 40px;
+  background: white;
+  border-bottom: 1px solid #e5e7eb;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.header h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.header p {
+  margin: 5px 0 0;
+  color: #6b7280;
+}
+
+.language {
+  padding: 8px 14px;
+  background: #eef2ff;
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+.workspace {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  padding: 25px 40px;
+  height: calc(100vh - 90px);
+}
+
+.code-panel,
+.explanation-panel {
+  background: white;
+  border: 1px solid #e5e7eb;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.panel-title {
+  padding: 15px 20px;
+  font-weight: bold;
+  border-bottom: 1px solid #e5e7eb;
+}
+
+.editor-container {
+  height: calc(100% - 52px);
+}
+
+.selected-line {
+  padding: 30px;
+}
+
+.selected-line h2 {
+  margin-top: 0;
+}
+
+.selected-line p {
+  color: #6b7280;
+  line-height: 1.6;
+}
+
+.empty-state {
+  padding: 40px;
+  text-align: center;
+  margin-top: 120px;
+}
+
+.empty-state h2 {
+  margin-bottom: 10px;
+}
+
+.empty-state p {
+  color: #6b7280;
+  line-height: 1.6;
+}
+.header h1 {
+  color: #111827;
+}
+
+textarea {
+  color: #111827;
+}
+.codelens-selected-line {
+  background: rgba(255, 230, 150, 0.35);
+}
