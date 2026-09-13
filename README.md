@@ -10,7 +10,7 @@ CodeLens is a simple interactive platform that helps users understand Python cod
 
 
 
-\*\*Paste → Click → Understand\*\*
+**Paste → Click → Understand**
 
 
 
@@ -88,11 +88,12 @@ Explanation Engine
 
 &#x20;    ↓
 
-Explanation```
+Explanation
+```
 
 
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 
 
@@ -118,7 +119,7 @@ Backend
 
 - Uvicorn
 
-📁 Project Structure
+##📁 Project Structure
 
 codelens/
 
@@ -150,7 +151,7 @@ codelens/
 
 └── README.md
 
-🚀 Run Locally
+##🚀 Run Locally
 
 Backend
 
@@ -196,7 +197,7 @@ Then open the URL provided by Vite.
 
 
 
-💡 Example
+##💡 Example
 
 def is\_prime(n):
 
@@ -230,7 +231,7 @@ CodeLens also explains important operators such as % and ==.
 
 
 
-🧠 Explanation Engine
+##🧠 Explanation Engine
 
 
 
@@ -256,7 +257,7 @@ CodeLens does not execute the user's code or use an external AI API.
 
 
 
-🎯 Goal
+##🎯 Goal
 
 
 
@@ -268,7 +269,7 @@ Understand code, one line at a time.
 
 
 
-👨‍💻 Author
+##👨‍💻 Author
 
 
 
@@ -276,7 +277,7 @@ Akshaya Naidu
 
 
 
-📄 License
+##📄 License
 
 
 
