@@ -1,8 +1,8 @@
-\# 🔍 CodeLens
+# 🔍 CodeLens
 
 
 
-\### Interactive Python Code Explanation Platform
+### Interactive Python Code Explanation Platform
 
 
 
@@ -18,27 +18,27 @@ Select any line of Python code and get a clear explanation of what it does, why 
 
 
 
-\---
+---
 
 
 
-\## ✨ Features
+## ✨ Features
 
 
 
-\- Interactive Python code editor
+- Interactive Python code editor
 
-\- Click any line to select it
+- Click any line to select it
 
-\- Selected-line highlighting
+- Selected-line highlighting
 
-\- Line-by-line explanations
+- Line-by-line explanations
 
-\- Explanation of common Python constructs
+- Explanation of common Python constructs
 
-\- Simple and beginner-friendly explanations
+- Simple and beginner-friendly explanations
 
-\- FastAPI backend
+- FastAPI backend
 
 
 
@@ -46,23 +46,23 @@ Currently supports:
 
 
 
-\- `if` conditions
+- `if` conditions
 
-\- `for` loops
+- `for` loops
 
-\- Function definitions
+- Function definitions
 
-\- `return` statements
+- `return` statements
 
-\- Variable assignments
-
-
-
-\---
+- Variable assignments
 
 
 
-\## ⚙️ How It Works
+---
+
+
+
+## ⚙️ How It Works
 
 
 
@@ -100,11 +100,11 @@ Frontend
 
 
 
-\- React
+- React
 
-\- Vite
+- Vite
 
-\- Monaco Editor
+- Monaco Editor
 
 
 
@@ -112,11 +112,11 @@ Backend
 
 
 
-\- Python
+- Python
 
-\- FastAPI
+- FastAPI
 
-\- Uvicorn
+- Uvicorn
 
 📁 Project Structure
 
